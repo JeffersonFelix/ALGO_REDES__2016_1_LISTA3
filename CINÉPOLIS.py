@@ -7,7 +7,7 @@
 
 questionario = list()
 
-for i in range(1, 6):
+for i in range(0, 5):
     questionario.append(int(input("Avalie os Filmes: 1 REGULAR, 2 BOM, 3 ÓTIMO: ")))
 
 regular_1 = 0
